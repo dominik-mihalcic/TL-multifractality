@@ -1,9 +1,8 @@
 # Scale invariance and multifractality in Taylor's law
 
-This repository contains R scripts for simulation and statistical analysis of log-normal multiplicative cascades, including moment scaling and estimation of the scaling exponent $b(q)$.
+This repository contains R scripts used to generate figures presented in the paper *Scale invariance and multifractality in Taylor's law*. The code implements simulation and statistical analysis of log-normal multiplicative cascades, including moment scaling analysis and estimation of the scaling exponent $b(q)$.
 
 All scripts are independent entry points and share common functions and constants defined in `helper.R`.
-
 ---
 
 ## Structure
