@@ -33,3 +33,5 @@ The construction of the groups for each dataset is described in Section 4(a) of 
 ## How to run
 
 Requires the R packages `tidyverse` and `readxl`. Place the three files in the working directory and run `TL_analysis.R`, which prints Tables 1–3 and draws Figures 4 and 5.
+
+The folder `Old` contains the code of the original submission, including the simulations of cascades, which is not used in the revised paper.
